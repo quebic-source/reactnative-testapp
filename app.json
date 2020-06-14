@@ -3,8 +3,8 @@
     "name": "outfit-recommendation-mobile-app",
     "slug": "outfit-recommendation-mobile-app",
     "platforms": [
-      "ios",
       "android",
+      "ios",
       "web"
     ],
     "version": "1.0.0",
@@ -21,12 +21,13 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "android"
-    },
     "android": {
-      "package": "com.quebic.test.reactnative"
+      "package": "com.quebic.reactnativetest1",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.quebic.reactnativetest1",
+      "supportsTablet": true
     },
     "entryPoint": "node_modules/expo/AppEntry.js"
   }

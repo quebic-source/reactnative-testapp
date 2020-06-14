@@ -280,8 +280,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "android";
-				PRODUCT_NAME = android;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.quebic.reactnativetest1";
+				PRODUCT_NAME = reactnativetest1;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -299,8 +299,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "android";
-				PRODUCT_NAME = android;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.quebic.reactnativetest1";
+				PRODUCT_NAME = reactnativetest1;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
@@ -355,8 +355,8 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
-				PRODUCT_BUNDLE_IDENTIFIER = "android";
-				PRODUCT_NAME = android;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.quebic.reactnativetest1";
+				PRODUCT_NAME = reactnativetest1;
 			};
 			name = Debug;
 		};
@@ -403,8 +403,8 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = "android";
-				PRODUCT_NAME = android;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.quebic.reactnativetest1";
+				PRODUCT_NAME = reactnativetest1;
 			};
 			name = Release;
 		};
